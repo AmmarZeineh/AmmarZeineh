@@ -28,8 +28,6 @@ experience in real-time features (WebSocket, Firebase), payments (Stripe), on-de
 | [**Swift**](https://github.com/AmmarZeineh/swift-mobile-app) | Two-sided marketplace app for sellers and customers | Flutter · Supabase · BLoC |
 | [**Mwaeed**](https://github.com/AmmarZeineh/mwaeed) | Service booking with Stripe payments, Arabic/English | Flutter · Stripe · Clean Architecture |
 | [**CourseCraft**](https://github.com/AmmarZeineh/CourseCraft) | Learning management system with quizzes and real-time chat | Flutter · Firestore · BLoC |
-| [**Push Notifications Service**](https://github.com/AmmarZeineh/notification) | FCM notification service for Android and iOS | ASP.NET Core · Clean Architecture |
-| [**Information Retrieval System**](https://github.com/AmmarZeineh/ir-project) | Search engine microservices: BM25, embeddings, hybrid search, RAG | Python · FastAPI |
 
 **Private products** (code not public, happy to demo):
 - **Sunbula:** Quran memorization circles for mosque managers, teachers and parents. Flutter app, NestJS API and React admin dashboard in one monorepo.
